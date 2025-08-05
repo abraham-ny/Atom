@@ -1,0 +1,513 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAPTOP-GHNAVMBC</Machine>
+    <WindowsUser>Abummoja</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>5edfe1e4-f203-4846-b3ad-4d9a6823432a</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Abummoja</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>9BDDF6414E3FF11FE47D83527DA9D121122474E08B3A0CB13655B72AAFA6AECC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5edfe1e4-f203-4846-b3ad-4d9a6823432a_1.0.0.0_x86__zzsqs07zf3eb0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5edfe1e4-f203-4846-b3ad-4d9a6823432a_zzsqs07zf3eb0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5edfe1e4-f203-4846-b3ad-4d9a6823432a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Abummoja</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-28T09:41:15.459</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\bin\x86\Debug\Atom Music Player.exe">
+      <PackagePath>entrypoint\Atom Music Player.exe</PackagePath>
+      <Modified>2023-04-28T09:35:04.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2021-02-04T22:15:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2020-12-02T01:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\atom-dark-playlist.png">
+      <PackagePath>Assets\atom-dark-playlist.png</PackagePath>
+      <Modified>2023-04-27T18:59:14.316</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\atom-dark.png">
+      <PackagePath>Assets\atom-dark.png</PackagePath>
+      <Modified>2023-04-27T18:59:14.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\atom-light-playlist.png">
+      <PackagePath>Assets\atom-light-playlist.png</PackagePath>
+      <Modified>2023-04-27T18:59:14.334</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\atom-light.png">
+      <PackagePath>Assets\atom-light.png</PackagePath>
+      <Modified>2023-04-27T18:59:14.325</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\atom-splash-dark.PNG">
+      <PackagePath>Assets\atom-splash-dark.PNG</PackagePath>
+      <Modified>2023-04-27T18:59:14.384</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\atom-splash-light.PNG">
+      <PackagePath>Assets\atom-splash-light.PNG</PackagePath>
+      <Modified>2023-04-27T18:59:14.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\atom-theme.PNG">
+      <PackagePath>Assets\atom-theme.PNG</PackagePath>
+      <Modified>2023-04-27T18:59:14.404</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:55:19.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\BadgeLogo.scale-125.png">
+      <PackagePath>Assets\BadgeLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:55:19.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\BadgeLogo.scale-150.png">
+      <PackagePath>Assets\BadgeLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:55:19.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\BadgeLogo.scale-200.png">
+      <PackagePath>Assets\BadgeLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:55:19.278</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\BadgeLogo.scale-400.png">
+      <PackagePath>Assets\BadgeLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:55:19.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\ic-artist.png">
+      <PackagePath>Assets\ic-artist.png</PackagePath>
+      <Modified>2023-04-27T18:59:14.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\ic-equalizer.png">
+      <PackagePath>Assets\ic-equalizer.png</PackagePath>
+      <Modified>2023-04-27T18:59:14.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\ic-next.png">
+      <PackagePath>Assets\ic-next.png</PackagePath>
+      <Modified>2023-04-27T18:59:14.441</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\ic-now-playing.png">
+      <PackagePath>Assets\ic-now-playing.png</PackagePath>
+      <Modified>2023-04-27T18:59:14.513</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\ic-pause.png">
+      <PackagePath>Assets\ic-pause.png</PackagePath>
+      <Modified>2023-04-27T18:59:14.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\ic-play.png">
+      <PackagePath>Assets\ic-play.png</PackagePath>
+      <Modified>2023-04-27T18:59:14.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\ic-playlist-tile.png">
+      <PackagePath>Assets\ic-playlist-tile.png</PackagePath>
+      <Modified>2023-04-27T18:59:14.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\ic-playlist.png">
+      <PackagePath>Assets\ic-playlist.png</PackagePath>
+      <Modified>2023-04-27T18:59:14.536</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\ic-prev.png">
+      <PackagePath>Assets\ic-prev.png</PackagePath>
+      <Modified>2023-04-27T18:59:14.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:51:50.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\LargeTile.scale-125.png">
+      <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:51:50.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\LargeTile.scale-150.png">
+      <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:51:50.886</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:51:51.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:51:51.872</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:48:19.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:48:19.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:48:19.200</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:48:19.241</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:48:19.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-28T09:40:38.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-28T09:40:38.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-28T09:40:38.917</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-28T09:40:40.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:49:57.370</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:49:57.445</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:49:57.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:49:57.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:53:04.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:53:04.663</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:53:04.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:53:04.701</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:53:04.739</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:53:04.344</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:53:04.586</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:53:04.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:53:04.467</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:53:03.828</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:53:03.864</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:53:03.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:53:04.031</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:53:04.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:53:04.103</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:53:04.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:53:04.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:53:04.180</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:55:47.786</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:55:47.822</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:55:47.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:55:47.900</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:55:47.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:51:02.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:51:02.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:51:02.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:51:03.541</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2021-11-27T10:13:20.094</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-28T09:40:39.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:49:57.618</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:53:03.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:53:04.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-27T18:51:03.073</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2023-04-27T10:10:08.610</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\bin\x86\Debug\Atom Music Player.xr.xml">
+      <PackagePath>Atom Music Player.xr.xml</PackagePath>
+      <Modified>2023-04-28T09:20:22.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2023-04-28T09:39:19.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2023-04-28T09:41:12.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2020-12-01T23:52:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2023-04-27T19:00:29.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\bin\x86\Debug\Core\Atom Music Player.exe">
+      <PackagePath>Atom Music Player.exe</PackagePath>
+      <Modified>2023-04-28T09:41:15.428</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.29713.2</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.29713.2</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.29713.2</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.29301.2</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.29301.2</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.29301.2</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

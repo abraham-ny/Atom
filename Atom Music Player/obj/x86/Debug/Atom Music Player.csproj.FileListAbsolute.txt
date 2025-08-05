@@ -1,0 +1,45 @@
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\bin\x86\Debug\App.xbf
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\bin\x86\Debug\MainPage.xbf
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\bin\x86\Debug\Atom Music Player.xr.xml
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\bin\x86\Debug\Atom Music Player.exe
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\bin\x86\Debug\Atom Music Player.pdb
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\bin\x86\Debug\resources.pri
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\bin\x86\Debug\AppxManifest.xml
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\bin\x86\Debug\Core\Atom Music Player.exe
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\bin\x86\Debug\Atom Music Player.build.appxrecipe
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\bin\x86\Debug\System.Runtime.dll
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\Atom Music Player.csproj.AssemblyReference.cache
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\App.g.i.cs
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\App.g.cs
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\MainPage.g.cs
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\App.xaml
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\MainPage.xaml
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\App.xbf
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\MainPage.xbf
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\Atom Music Player.csproj.CoreCompileInputs.cache
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\Atom Music Player.csproj.CopyComplete
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\Atom Music Player.exe
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\Atom Music Player.pdb
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\priconfig.xml
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\resources.resfiles
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\pri.resfiles
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\qualifiers.txt
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Abummoja\source\repos\Atom Music Player\Atom Music Player\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424707200000000.json
